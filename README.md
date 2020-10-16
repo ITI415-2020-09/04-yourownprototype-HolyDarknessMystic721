@@ -1,2 +1,3 @@
 # OwnPrototype
  
+This game is a combination of the assignments Roll-a-Ball and Mission Demolition. The Player is a ball and must collect objects around the map and make it to the goal to end the game. The Collectable game objects are surrounded by walls similarly to the buildings in mission demolition and the players must take down these walls to get the objects. I tried to make the game have a 3rd person main camera focused on the ball, but failed. Instead the game is from a top-down angle. The map has a first floor and a bottom floor and there are currently a total of 6 Collectables to obtain.
